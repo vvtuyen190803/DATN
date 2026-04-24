@@ -1,0 +1,22 @@
+# Môi trường ảo Python
+venv/
+
+# Thư mục chứa trọng số AI (Rất nặng, không nên push)
+weights/
+
+# Các thư mục chứa kết quả chạy hoặc ảnh/video tạm thời
+runs/
+temp_results/
+temp_uploads/
+
+# Nếu trong thư mục scenario có chứa video/ảnh mẫu
+scenario/
+
+# Các file định dạng video/ảnh cụ thể
+*.mp4
+*.avi
+*.jpg
+*.png
+
+node_modules/
+**/node_modules/
